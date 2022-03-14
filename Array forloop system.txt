@@ -1,0 +1,7 @@
+//for loop array system//
+for (let i = 0; i < words.length; i++) {
+    const element = array[i];
+  // First element is zero based unit.
+  // After semicolon the condition as long as it evaulautes to true you will run your for loop
+  // As long as i is less than words.length the vaule is true.
+  // i++ incrementing by one.. will execute again every time the expression is true.   
